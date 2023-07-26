@@ -1,0 +1,47 @@
+  -----------------------------------------------------------------------------
+
+                   --- CAEN SpA - Computing Systems Division --- 
+
+  -----------------------------------------------------------------------------
+
+  V65xxController Release Notes
+
+  -----------------------------------------------------------------------------
+  Rel. 1.0  	- July     2012
+
+  -----------------------------------------------------------------------------
+ 
+
+  Description
+  -----------
+
+  This document is updated for every official release of the V65xxController Demo 
+  and it contains various information specific to this software which can not
+  be found in the User's Manual, available together with the software or on 
+  the CAEN web site: www.caen.it.
+
+
+ System Requirements
+ -------------------
+ 
+  - CAEN V1718 USB-VME Bridge or CAEN V2718 OpticalLink-VME Bridge 
+  - CAEN A2818 PCI-CONET Board with driver version equal or greater than 6.3.1 and/or CAEN A3818 PCIe-CONET2 Board
+  - CAENComm Library 
+  - Windows XP/Vista/7 or Linux
+       
+
+  What's New in Rel. 1.0
+  --------------------------
+
+   New Features and Important Notes
+   --------------------------------
+
+   - First release                                      
+
+  How to get support
+  ------------------
+
+  Our Software Support Group is available for questions, support and any other 
+  software related issue concerning CAEN products; for software support
+  visit the page http://www.caen.it/csite/ProductSupport.jsp
+
